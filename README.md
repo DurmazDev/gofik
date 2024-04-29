@@ -1,3 +1,3 @@
-# GOFİK (Grafik Organizasyon ve Fonksiyonel İşleme Kiti)
+# GOFİK
 
-Çok yakında tüm kaynak kod paylaşılacaktır.
+Grafik Organizasyon ve Fonksiyonel İşleme Kiti, Çok yakında tüm kaynak kod paylaşılacaktır.
